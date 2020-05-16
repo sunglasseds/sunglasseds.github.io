@@ -44,9 +44,9 @@ Registrar WHOIS Server: whois.godaddy.com
 Registrar URL: http://www.godaddy.com
 Updated Date: 2020-04-08T14:37:30Z
 Creation Date: 2020-04-08T14:37:29Z
-Registrar Registration Expiration Date: 2021-04-08T14:37:29Z```
-The rest of the whois information is obscured by a proxy organization that provides privacy for whois records (I even use them myself as do many others for privacy reasons), so I cannot tell who owns these domains.
+Registrar Registration Expiration Date: 2021-04-08T14:37:29Z
 ```
+The rest of the whois information is obscured by a proxy organization that provides privacy for whois records (I even use them myself as do many others for privacy reasons), so I cannot tell who owns these domains.
 
 Following the pattern of their sites, I checked for "reopenmd.com", but it never resolved to anything. That said, the DNS lookup itself didn't result in a NXDOMAIN error which tells me the domain does exist.
 
